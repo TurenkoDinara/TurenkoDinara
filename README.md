@@ -57,6 +57,7 @@ QA-инженер с фокусом на качестве продукта и п
 * 📍 Ташкент
 * 📧 **Email:** [turenkodinara@gmail.com](mailto:turenkodinara@gmail.com)
 * 💬 **Telegram:** @DinchikDi
+* 💼 LinkedIn: https://www.linkedin.com/in/динара-туренко-b9052735a
 * 💻 **GitHub:** [https://github.com/TurenkoDinara](https://github.com/TurenkoDinara)
 
 ---
